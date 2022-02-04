@@ -1,6 +1,6 @@
 АНДРОЙД : https://www.mediafire.com/file/775ijd21sbsyb38/com.projectbsds.v41150.apk/file
 
-## How to run ##
+## как запустить? ##
 1. Скачайте архив через кнопку Code - Download ZIP. Если вы с телефона включите режим для ПК.
 2. Скачайте PyDroid3 в Play Market
 3. Запустите
